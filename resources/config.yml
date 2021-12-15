@@ -1,0 +1,18 @@
+## You can add more rewards in source code just follow the comments there
+
+##CommonRewards/CommonLootbox
+
+common1id: 276 #You can edit this Btw this is 1st reward id
+common2id: 310 #you must dont leave it empty or it will cause an error which im still fixing
+common3id: 311
+common4id: 312
+common5id: 313
+
+##amount of item u wanted to give same as 1st dont leave it emty or else xD
+common1amount: 1
+common2amount: 1
+common3amount: 1
+common4amount: 1
+common5amount: 1
+
+
